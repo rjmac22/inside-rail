@@ -1,0 +1,32 @@
+---
+title: "Inside Rail"
+---
+
+# Inside Rail
+
+Inside Rail is a sports analytics project looking at tennis, horse racing, and the NFL as **markets**, not just games.
+
+To start, we’re launching the **Inside Rail Tennis** series:
+
+- A new way of watching and understanding tennis
+- Built around first-strike patterns, serve/return structure, and rally-length data
+
+## Sections
+
+### 🎾 Inside Rail Tennis
+
+- [What First-Strike Tennis Actually Is (and Why It Matters)](tennis/post1-first-strike.qmd)
+
+More tennis posts coming soon: the serve, the return, and four-shot match analysis.
+
+### 🐎 Inside Rail Racing
+
+Form modelling, markets, and how sharp money looks at horse racing.
+
+*(Coming soon.)*
+
+### 🏈 Inside Rail NFL
+
+Drive-based models, red zone efficiency, and “teams as portfolios” thinking.
+
+*(Coming soon.)*

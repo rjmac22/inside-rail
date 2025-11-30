@@ -1,0 +1,17 @@
+{
+  "index.qmd": {
+    "index.html": "afc9c42a"
+  },
+  "nfl/index.qmd": {
+    "index.html": "2a14fa38"
+  },
+  "racing/index.qmd": {
+    "index.html": "8b9d447d"
+  },
+  "tennis/index.qmd": {
+    "index.html": "87bfd0e8"
+  },
+  "tennis/post1-first-strike.qmd": {
+    "post1-first-strike.html": "84b92d3a"
+  }
+}

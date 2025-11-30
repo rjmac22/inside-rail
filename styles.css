@@ -1,0 +1,93 @@
+/* -----------------------------------------------------------
+   INSIDE RAIL – BASE STYLING
+   Clean + minimal until we do the full brand theme
+----------------------------------------------------------- */
+
+/* Hide repeated in-body title (Quarto sometimes shows both) */
+.quarto-title-block .title {
+  display: none;
+}
+
+/* Improve body text readability */
+body {
+  font-family: "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  line-height: 1.6;
+  font-size: 1.05rem;
+  color: #222;
+}
+
+/* Improve main content width for readability */
+main.content {
+  max-width: 820px;
+}
+
+/* Headings look cleaner */
+h1, h2, h3, h4 {
+  font-weight: 600;
+  letter-spacing: 0.3px;
+  color: #222;
+}
+
+/* Code blocks */
+pre, code {
+  background: #f8f8f8;
+  border-radius: 6px;
+  padding: 4px 8px;
+  font-size: 0.95rem;
+}
+
+/* Tables – nicer formatting */
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+table th {
+  background: #0A1A2F;
+  color: white;
+  font-weight: 600;
+  padding: 8px;
+  text-align: left;
+}
+
+table td {
+  padding: 8px;
+  border-bottom: 1px solid #e0e0e0;
+}
+
+/* Callouts (the collapsible sidebar boxes) */
+.callout-note {
+  border-left: 4px solid #FFD300 !important; /* yellow edge highlight */
+  background: #fafafa !important;
+  padding: 0.75rem !important;
+}
+
+.callout-note h4, 
+.callout-note h3, 
+.callout-note h2 {
+  margin-top: 0.2rem;
+}
+
+/* Link styling */
+a {
+  color: #0057d9;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Improve spacing under lists */
+ul, ol {
+  margin-bottom: 1rem;
+}
+
+/* Blockquotes (if you use them) */
+blockquote {
+  border-left: 4px solid #ccc;
+  padding-left: 1rem;
+  color: #555;
+}

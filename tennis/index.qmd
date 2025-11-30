@@ -1,0 +1,19 @@
+---
+title: "Inside Rail Tennis"
+---
+
+# Inside Rail Tennis
+
+Inside Rail Tennis looks at the sport as a **first-strike, serve–return game**, not a highlight-rally sport.
+
+## Series: First-Strike Tennis
+
+1. [What First-Strike Tennis Actually Is (and Why It Matters)](post1-first-strike.qmd)
+
+Upcoming:
+
+- The Serve: Free Points, Cheap Points, Pressure Points  
+- The Return: The Most Misunderstood Shot in Tennis  
+- Four-Shot Tennis in Action  
+- Styles & Match-Ups  
+- First-Strike in Market Terms
