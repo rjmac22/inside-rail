@@ -115,7 +115,7 @@ ul.task-list li input[type="checkbox"] {
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-games">    
         <li>
-    <a class="dropdown-item" href="../../games/nl2/chapter1.html">
+    <a class="dropdown-item" href="../../games/nl2/chapter1.qmd">
  <span class="dropdown-text">NL2 — Chapter 1: The Call</span></a>
   </li>  
     </ul>
@@ -217,7 +217,7 @@ and losing three buy-ins feels like you’ve been financially assaulted behind a
 It’s the <strong>emotional exchange rate</strong>.</p>
 <p>At NL2, money is tiny and feelings are enormous.<br>
 A twenty-pence loss can ruin a mood.<br>
-A four-quid win can fuel a week-long fantasy of semi-professional greatness.</p>
+A four-dollar win can fuel a week-long fantasy of semi-professional greatness.</p>
 <p>It’s here you find the first cracks forming:</p>
 <ul>
 <li><em>Denial:</em> “These idiots call everything. Impossible to beat.”<br>
@@ -408,7 +408,7 @@ A world that is about to test you more than you realise.</p>
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/rjmac22\.github\.io\/inside-rail\/");
+        var filterRegex = new RegExp('/' + window.location.host + '/');
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
