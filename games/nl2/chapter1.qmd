@@ -4,14 +4,19 @@ author: "Inside Rail"
 date: "2025-12-11"
 categories: [poker, microstakes, psychology, inside-rail, heros-journey]
 keywords: ["NL2", "microstakes poker", "poker beginners", "poker psychology", "poker hero's journey", "Inside Rail"]
-image: "../images/ch1-opening.png"
 format:
   html:
     toc: false
 ---
 
-
-
+> *Hear me, wanderer of coin and chance:*  
+> *Your journey starts in shadow.*  
+> *The smallest stakes conceal the deepest tests,*  
+> *And every lie you keep will cost you twice.*  
+>   
+> *Step forward, if you must,*  
+> *into the fog of twos—*  
+> *but know the path remembers every footfall.*
 
 # CHAPTER 1 — THE CALL
 
@@ -24,16 +29,7 @@ The journey begins with a quiet, comforting lie:
 
 > **“I’m probably a small winner… must just be running bad.”**
 
-It’s almost sweet, really.  
-The sort of thing you whisper to yourself while the graph on PokerTracker looks like it’s trying to tunnel into the earth.
-
-You’re not being dishonest.  
-You’re being human.
-
 ![A solitary path disappearing into fog and shadow, symbolising the beginning of a difficult journey.](../images/ch1-opening.png)
-
-> **“Every journey begins with a lie you tell yourself.”**  
-> *— Inside Rail*
 
 The lie isn’t malicious.  
 It’s not even conscious.  
@@ -54,13 +50,13 @@ It’s the **emotional exchange rate**.
 
 At NL2, money is tiny and feelings are enormous.  
 A twenty-pence loss can ruin a mood.  
-A four-dollar win can fuel a week-long fantasy of semi-professional greatness.
+A four-quid win can fuel a week-long fantasy of semi-professional greatness.
 
 It’s here you find the first cracks forming:
 
 - *Denial:* “These idiots call everything. Impossible to beat.”  
 - *Bargaining:* “If I just tighten up a little…”  
-- *Anger:* “How do you call THAT?!”  
+- *Anger:* “How do I call THAT?!”  
 - *Depression:* “Why do I even do this to myself?”  
 - *Acceptance:* “Okay, one more session.”
 
