@@ -1,0 +1,202 @@
+---
+title: "Chapter 1 — The Call"
+author: "Inside Rail"
+date: "2025-12-11"
+categories: [poker, microstakes, psychology, inside-rail, heros-journey]
+keywords: ["NL2", "microstakes poker", "poker beginners", "poker psychology", "poker hero's journey", "Inside Rail"]
+image: "../images/ch1-opening.png"
+format:
+  html:
+    toc: false
+---
+
+
+
+
+# CHAPTER 1 — THE CALL
+
+Before you ever sit down at NL2, the first hand is already dealt.
+
+It isn’t on the table.  
+It’s in your head.
+
+The journey begins with a quiet, comforting lie:
+
+> **“I’m probably a small winner… must just be running bad.”**
+
+It’s almost sweet, really.  
+The sort of thing you whisper to yourself while the graph on PokerTracker looks like it’s trying to tunnel into the earth.
+
+You’re not being dishonest.  
+You’re being human.
+
+![A solitary path disappearing into fog and shadow, symbolising the beginning of a difficult journey.](../images/ch1-opening.png)
+
+> **“Every journey begins with a lie you tell yourself.”**  
+> *— Inside Rail*
+
+The lie isn’t malicious.  
+It’s not even conscious.  
+It’s simply the soft, warm blanket every beginner wraps themselves in when the numbers in PokerTracker look like a heart monitor in a collapsing A&E unit.
+
+Your graph resembles the flight path of a drunk pigeon.  
+Your bankroll resembles the GDP of a small island nation in crisis.  
+And yet, somehow, deep inside, you are convinced:
+
+**“I’m good at this.”**
+
+This is **The Ordinary World** of the NL2 hero —  
+a strange place where £6 feels like a mortgage payment  
+and losing three buy-ins feels like you’ve been financially assaulted behind a Tesco Express.
+
+The strange thing about the micro-stakes is not the stakes.  
+It’s the **emotional exchange rate**.
+
+At NL2, money is tiny and feelings are enormous.  
+A twenty-pence loss can ruin a mood.  
+A four-dollar win can fuel a week-long fantasy of semi-professional greatness.
+
+It’s here you find the first cracks forming:
+
+- *Denial:* “These idiots call everything. Impossible to beat.”  
+- *Bargaining:* “If I just tighten up a little…”  
+- *Anger:* “How do you call THAT?!”  
+- *Depression:* “Why do I even do this to myself?”  
+- *Acceptance:* “Okay, one more session.”
+
+This cycle repeats.  
+Daily.  
+Hourly.  
+Sometimes hand-to-hand.
+
+You study ranges.  
+You know jargon.  
+You’ve watched YouTube.  
+So naturally you think:
+
+> **“Half these players don’t even know what a range is…  
+why can’t I crush these idiots?”**
+
+Every micro-stakes hero starts here — with the exact cocktail of confidence, entitlement, delusion, and frustration required to create the perfect victim for what comes next.
+
+Because once you look online for answers, you meet **The False Mentors**.
+
+And they come in three species.
+
+## **I. The Doomsayers**
+
+They greet you with open arms and closed minds.
+
+**“Micro-stakes are a trap!”**  
+**“The rake is unbeatable!”**  
+**“You’ll never climb from NL2!”**
+
+They speak with the certainty of prophets and the experience of people who’ve never beaten a game in their lives.  
+According to them, PokerStars personally installed a ceiling above NL5 to keep you poor.
+
+You don’t realise it yet, but these people aren’t warning you.  
+They’re projecting.
+
+## **II. The Conspiracists**
+
+Next come the whisperers:
+
+**“NL2 is full of bots.”**  
+**“The RNG is rigged.”**  
+**“They reward the fish and punish the regs.”**
+
+These are the guardians of the Ancient Lore of Online Poker — a sacred tradition dating back to the first man who lost a pot with Aces and declared the site corrupt.
+
+You haven’t even bought in yet, and already the world feels hostile.
+
+## **III. The Salesmen**
+
+And then, as if by cosmic coincidence, you discover the third category.
+
+The ones who smile too warmly.
+
+**“Skip NL2.”**  
+**“Start at NL25.”**  
+**“Micro-stakes will ruin your fundamentals.”**  
+**“…and for only *$997*, you can follow my five-step blueprint to success.”**
+
+Ah.
+
+There it is.
+
+The first temptation of the journey:  
+the shortcut.
+
+They tell you to flee the village, abandon the first step of the path, and leap straight into greatness — preferably by wiring your credit card details to a wizard with a paid Discord group.
+
+You don’t know any better, so all these voices swirl into one overwhelming truth:
+
+**“This game is impossible,  
+you’re not good enough,  
+and also, please buy my course.”**
+
+The noise is deafening.  
+The contradictions maddening.  
+The fear intoxicating.
+
+And then — in the middle of all this —  
+you hear something else.
+
+A quieter voice.  
+Not shouting.  
+Not selling.  
+Not panicking.
+
+A voice that simply says:
+
+> **“You’re going to play anyway.”**
+
+That voice… well… that’s me.
+
+The old wizard in the corner of the tavern.  
+The one who has seen every broken mouse, every rage deposit, every “fuck this I’m going to NL100 where they play proper poker” moment a thousand times.
+
+I know the dangers of the journey.  
+But I will not forbid you.
+
+Everyone walks this road.  
+Everyone ignores advice at least once.  
+Everyone chases losses into the jaws of a higher stake.  
+Everyone thinks they’re above NL2 until NL2 humbles them.
+
+I merely smile, because I already know how Chapter 2 ends.
+
+But this is your story.
+
+And so, after all the noise, after all the doubt, after all the contradictory prophecies, you feel something small but undeniable:
+
+**hope.**
+
+A spark.
+
+A need to prove something — to yourself, not to anyone else.
+
+You load the client.
+
+Your balance is meagre.  
+Your confidence is uneven.  
+Your mouse rests under your hand like a weapon you aren’t trained to use.
+
+And then it happens.
+
+Your finger moves.  
+The cursor drifts.
+
+**NL2 — £2 Buy-in.**  
+A world you think you understand.  
+A world that is about to test you more than you realise.
+
+> **Click.**
+
+The door opens.
+
+The journey begins.
+
+---
+
+### **“You clicked. Now the game gets to work on you.”**

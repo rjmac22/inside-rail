@@ -13,6 +13,10 @@ website:
         href: racing/index.qmd
       - text: "NFL"
         href: nfl/index.qmd
+      - text: "Games"
+        menu:
+          - href: games/nl2/chapter1.qmd
+            text: "NL2 — Chapter 1: The Call"
 
 format:
   html:

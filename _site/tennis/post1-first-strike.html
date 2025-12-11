@@ -137,7 +137,6 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#what-this-means-for-viewers-and-analysts" id="toc-what-this-means-for-viewers-and-analysts" class="nav-link" data-scroll-target="#what-this-means-for-viewers-and-analysts">6. What This Means for Viewers and Analysts</a></li>
   <li><a href="#whats-next" id="toc-whats-next" class="nav-link" data-scroll-target="#whats-next">7. What’s Next</a></li>
   </ul></li>
-  <li><a href="#references" id="toc-references" class="nav-link" data-scroll-target="#references">References</a></li>
   </ul>
 </nav>
     </div>
@@ -313,7 +312,7 @@ Grass amplifies first-strike tennis.</p>
 </section>
 <section id="wimbledon-ibm-insights-hub" class="level3">
 <h3 class="anchored" data-anchor-id="wimbledon-ibm-insights-hub"><strong>4. Wimbledon / IBM Insights Hub</strong></h3>
-<p>🔗 https://www.wimbledon.com/en/news/insights</p>
+<p>🔗 https://www.wimbledon.com/en/news/insights 🔗 https://www.ibm.com/case-studies/all-england-lawn-tennis-club-ibm-ix</p>
 <p><strong>Why it’s useful:</strong><br>
 This is how major tournaments package analytics for TV and fans.</p>
 <p><strong>You’ll get:</strong><br>
@@ -426,22 +425,9 @@ It’s clarity.</p>
 </ul>
 <p>This is the backbone of Inside Rail Tennis.<br>
 From here, the sport opens up.</p>
-</section>
-</section>
-<section id="references" class="level1">
-<h1>References</h1>
-<p>[1] O’Shannessy, C. “The First Four Shots.” BrainGameTennis (archived).<br>
-https://web.archive.org/web/20200728204626/https://www.braingametennis.com/the-first-four-shots/</p>
-<p>[2] Carvalho, H. M., et al.&nbsp;“Match Dynamics Across Men’s and Women’s Professional Tennis.”<br>
-PLOS One, 2024.<br>
-https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0292485</p>
-<p>[3] Reid, M., Morgan, S. “Insights from the All England Club: Grass-Court Tennis.”<br>
-ITF Coaching &amp; Sport Science Review, 2014.<br>
-https://www.itftennis.com/media/2510/itf-science-2014.pdf</p>
-<p>[4] IBM SlamTracker Case Study.<br>
-https://www.ibm.com/uk-en/case-studies/ibm-wimbledon-tennis-slamtracker</p>
 
 
+</section>
 </section>
 
 </main> <!-- /main -->
@@ -518,7 +504,7 @@ https://www.ibm.com/uk-en/case-studies/ibm-wimbledon-tennis-slamtracker</p>
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp('/' + window.location.host + '/');
+        var filterRegex = new RegExp("https:\/\/rjmac22\.github\.io\/inside-rail\/");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
